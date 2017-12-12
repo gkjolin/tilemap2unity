@@ -14,7 +14,7 @@ public class Camerfallow : MonoBehaviour
 
         myCamera.orthographicSize = (Screen.height / 1000f) * 5;
     }
-    private float m_fTime = 0;
+    
     // Update is called once per frame
     void Update()
     {
